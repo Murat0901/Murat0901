@@ -9,3 +9,4 @@ My Personal Stuff:
 - 📫 How to reach me: menzilcim[at]gmail.com
 - ⚡ My Play Store Link: https://play.google.com/store/apps/developer?id=M-Works
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murat0901&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
