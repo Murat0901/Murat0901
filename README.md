@@ -1,6 +1,6 @@
 ### Hi there I'm Murat 👋
 
-I'm Murat. I'm a freelance android developer. I ❤ learning new things and making mobile apps.
+I'm Murat. I'm a freelance IOS developer. I ❤ learning new things and making mobile apps.
 
 My Personal Stuff:
 
