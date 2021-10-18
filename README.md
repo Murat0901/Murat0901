@@ -4,7 +4,7 @@ I'm Murat. I'm a freelance IOS developer. I ❤ learning new things and making m
 
 My Personal Stuff:
 
-- 🔭 I’m currently working with Kotlin and Swift.
+- 🔭 I’m currently working with Swift.
 - 💬 Ask me about anything.
 - 📫 How to reach me: menzilcim[at]gmail.com
 - ⚡ My Play Store Link: https://play.google.com/store/apps/developer?id=M-Works
