@@ -1,6 +1,6 @@
 ### Hi there I'm Murat 👋
 
-I'm Murat. I'm an indie IOS developer. I ❤ learning new things and making mobile apps.
+I'm Murat. I'm an indie iOS developer. I ❤ learning new things and making mobile apps.
 
 My Personal Stuff:
 
