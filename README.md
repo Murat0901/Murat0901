@@ -4,9 +4,7 @@ I'm Murat. I'm an indie iOS developer. I ❤ learning new things and making mobi
 
 My Personal Stuff:
 
-- 🔭 I’m currently working with Swift.
-- 💬 Ask me about anything.
-- 📫 How to reach me: menzilcim[at]gmail.com
--  My App Store Link: https://apps.apple.com/us/developer/murat-menzilci/id1585122954
+- I make apps on App Store
+- 🔭 I’m community builder at Adapty.io
+- 📫 How to reach me: murat[at]adapty.io
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murat0901&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
